@@ -2,7 +2,7 @@
 - 👀 I’m interested in python,java,php,.net 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me shasamadi0@gmail.com 
 
 <!---
 shakirali786/shakirali786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
